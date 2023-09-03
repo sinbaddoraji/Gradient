@@ -8,7 +8,8 @@ A Reddit-like platform using React, Node.js, Express.js, and MongoDB.
 - **Node.js**: Runtime environment for executing server-side JavaScript.
 - **Express.js**: Back-end web application framework for Node.js.
 - **MongoDB**: NoSQL database for storing data in flexible, JSON-like documents.
-- **MongoDB**: Frontend technology
+- **React**: Frontend technology
+- **Material-UI**: A popular React UI framework based on Google's Material Design.
 
 #### Modules and Utilities:
 - **mongoose**: ORM for MongoDB to simplify database interactions.
